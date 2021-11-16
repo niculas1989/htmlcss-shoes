@@ -15,6 +15,10 @@
     margin: 0 auto;
 }
 
+body {
+    overflow-y: hidden;
+}
+
 /* HEADER */
 
 #main-menu {
@@ -42,7 +46,7 @@ ul, li, a {
 /* Utilities */
 
 .title{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Rubik Mono One, sans-serif;
     font-size: 50px;
 }
 
