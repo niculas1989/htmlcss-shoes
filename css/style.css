@@ -14,3 +14,18 @@
     width: 1020px;
     margin: 0 auto;
 }
+
+.red-box {
+    height: 100vh;
+    background-color: red;
+}
+
+.green-box {
+    height: 100vh;
+    background-color: green;
+}
+
+.yellow-box {
+    height: 100vh;
+    background-color: yellow;
+}
