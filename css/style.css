@@ -18,6 +18,7 @@
 /* HEADER */
 
 #main-menu {
+    z-index: 1;
     position: fixed;
     right: 15px;
     top: 15px;
@@ -53,19 +54,28 @@ ul, li, a {
     color: green;
 }
 
+.centrato {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 /* MAIN INFORMATION */
 
 #red-box {
     height: 100vh;
     background-color: red;
+    position: relative;
 }
 
 #green-box {
     height: 100vh;
     background-color: green;
+    position: relative;
 }
 
 #yellow-box {
     height: 100vh;
     background-color: #FFFF00;
+    position: relative;
 }
