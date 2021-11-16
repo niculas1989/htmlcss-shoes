@@ -40,9 +40,17 @@ ul, li, a {
 
 /* Utilities */
 
-h1 {
+.title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
+}
+
+.yellow-title {
+    color: yellow;
+}
+
+.green-title {
+    color: green;
 }
 
 /* MAIN INFORMATION */
