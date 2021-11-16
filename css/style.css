@@ -15,17 +15,34 @@
     margin: 0 auto;
 }
 
-.red-box {
+/* HEADER */
+
+.main-menu {
+    position: fixed;
+}
+
+ul, li, a {
+    display: inline-block;
+}
+
+#main-menu a {
+    color: black;
+    text-decoration: none;
+}
+
+/* MAIN INFORMATION */
+
+#red-box {
     height: 100vh;
     background-color: red;
 }
 
-.green-box {
+#green-box {
     height: 100vh;
     background-color: green;
 }
 
-.yellow-box {
+#yellow-box {
     height: 100vh;
     background-color: yellow;
 }
