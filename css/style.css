@@ -38,6 +38,13 @@ ul, li, a {
     margin: 0 20px;
 }
 
+/* Utilities */
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
 /* MAIN INFORMATION */
 
 #red-box {
