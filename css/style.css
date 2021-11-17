@@ -52,7 +52,8 @@ ul, li, a {
 
 .title{
     font-family: Rubik Mono One, sans-serif;
-    font-size: 50px;
+    font-size: 3rem;
+    text-align: center;
 }
 
 .yellow-title {
